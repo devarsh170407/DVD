@@ -1,0 +1,501 @@
+Order_ID,Customer_ID,Date,City,Area,Customer_Type,Product_ID,Product_Name,Category,Quantity,Selling_Price,Delivery_Time(min),Status,Payment_Method,Rating,Cost_Price
+med1001,med_cst001,2025-06-04,Bhavnagar,Semi-Urban,Chronic,9001,Sanitizer,Supplement,1,2480,32,Cancelled,Card,4,1653
+med1002,med_cst002,2024-03-20,Bhavnagar,Urban,New,9002,Face Wash,Personal Care,5,1209,30,Cancelled,UPI,3,936
+med1003,med_cst003,2024-12-16,Ahmedabad,Semi-Urban,Chronic,9003,Sanitizer,Device,4,1583,33,Delivered,Card,3,1272
+med1004,med_cst004,2024-02-23,Surat,Urban,Chronic,9004,Sanitizer,Personal Care,2,1913,29,Returned,Cash,3,1442
+med1005,med_cst005,2025-08-01,Gandhinagar,Urban,Regular,9005,BP Monitor,Device,2,1481,38,Cancelled,UPI,3,1097
+med1006,med_cst006,2025-06-10,Junagadh,Semi-Urban,Chronic,9006,Vitamin Tablets,Medicine,3,2798,38,Returned,Card,4,2123
+med1007,med_cst007,2024-10-07,Rajkot,Semi-Urban,Regular,9007,Paracetamol,Device,4,2258,30,Cancelled,Card,2,1685
+med1008,med_cst008,2025-10-17,Vadodara,Semi-Urban,Regular,9008,BP Monitor,Personal Care,2,729,54,Returned,UPI,1,602
+med1009,med_cst009,2024-08-16,Surat,Urban,Chronic,9009,Vitamin Tablets,Medicine,4,1960,38,Delivered,Cash,3,1479
+med1010,med_cst010,2024-11-12,Bhavnagar,Semi-Urban,New,9010,Face Wash,Device,2,1070,40,Cancelled,Wallet,4,718
+med1011,med_cst011,2025-07-24,Surat,Semi-Urban,Chronic,9011,Paracetamol,Device,4,1220,32,Cancelled,UPI,3,890
+med1012,med_cst012,2025-05-22,Bhavnagar,Semi-Urban,Regular,9012,Sanitizer,Personal Care,2,1568,54,Cancelled,UPI,1,1192
+med1013,med_cst013,2025-10-11,Jamnagar,Semi-Urban,Chronic,9013,Vitamin Tablets,Medicine,5,2135,28,Delivered,Wallet,4,1758
+med1014,med_cst014,2024-04-03,Ahmedabad,Urban,New,9014,Face Wash,Personal Care,1,2875,22,Cancelled,Cash,1,2351
+med1015,med_cst015,2024-03-27,Jamnagar,Semi-Urban,Regular,9015,Face Wash,Device,1,612,34,Delivered,Card,5,478
+med1016,med_cst016,2025-01-21,Jamnagar,Semi-Urban,Chronic,9016,Vitamin Tablets,Supplement,3,402,60,Cancelled,Cash,4,270
+med1017,med_cst017,2025-10-29,Rajkot,Urban,Chronic,9017,BP Monitor,Personal Care,1,2610,26,Delivered,Card,5,2187
+med1018,med_cst018,2025-02-19,Rajkot,Semi-Urban,New,9018,Sanitizer,Personal Care,1,811,30,Cancelled,UPI,4,664
+med1019,med_cst019,2024-05-21,Junagadh,Urban,Chronic,9019,BP Monitor,Personal Care,2,1484,36,Cancelled,UPI,5,984
+med1020,med_cst020,2025-12-24,Jamnagar,Semi-Urban,New,9020,Sanitizer,Medicine,5,2965,59,Returned,Card,3,2220
+med1021,med_cst021,2025-09-04,Vadodara,Urban,Chronic,9021,Paracetamol,Device,4,1755,49,Cancelled,Card,2,1186
+med1022,med_cst022,2024-01-05,Gandhinagar,Urban,Chronic,9022,Paracetamol,Personal Care,2,321,27,Cancelled,Card,4,243
+med1023,med_cst023,2025-08-26,Surat,Urban,New,9023,Face Wash,Medicine,1,2399,41,Returned,Card,3,1835
+med1024,med_cst024,2024-05-15,Junagadh,Urban,Chronic,9024,Face Wash,Medicine,5,330,39,Cancelled,Cash,4,219
+med1025,med_cst025,2024-02-19,Gandhinagar,Urban,Regular,9025,Glucose Meter,Medicine,2,1176,23,Delivered,UPI,3,963
+med1026,med_cst026,2025-03-07,Bhavnagar,Urban,New,9026,Sanitizer,Medicine,3,1172,33,Cancelled,UPI,4,947
+med1027,med_cst027,2025-12-06,Surat,Urban,Regular,9027,BP Monitor,Medicine,3,1187,43,Delivered,UPI,4,854
+med1028,med_cst028,2024-11-13,Junagadh,Urban,Chronic,9028,Paracetamol,Device,3,287,54,Returned,UPI,2,242
+med1029,med_cst029,2025-11-26,Bhavnagar,Urban,Regular,9029,BP Monitor,Supplement,5,713,26,Returned,UPI,4,573
+med1030,med_cst030,2024-12-02,Surat,Semi-Urban,Regular,9030,Vitamin Tablets,Medicine,1,1918,20,Cancelled,Cash,1,1263
+med1031,med_cst031,2024-01-03,Rajkot,Semi-Urban,Regular,9031,Glucose Meter,Supplement,4,2487,54,Returned,UPI,3,1711
+med1032,med_cst032,2025-09-09,Jamnagar,Semi-Urban,New,9032,Vitamin Tablets,Device,3,900,29,Returned,UPI,1,606
+med1033,med_cst033,2025-04-23,Bhavnagar,Semi-Urban,Chronic,9033,Face Wash,Device,5,2747,49,Returned,Cash,3,2203
+med1034,med_cst034,2025-02-07,Vadodara,Urban,Chronic,9034,Sanitizer,Supplement,5,1941,39,Returned,Cash,3,1503
+med1035,med_cst035,2024-03-04,Bhavnagar,Urban,New,9035,Paracetamol,Supplement,3,1988,55,Returned,Card,5,1476
+med1036,med_cst036,2024-06-30,Jamnagar,Urban,Regular,9036,Vitamin Tablets,Medicine,2,2340,45,Cancelled,Cash,4,1861
+med1037,med_cst037,2024-10-10,Junagadh,Semi-Urban,Regular,9037,Paracetamol,Device,5,2750,49,Delivered,Wallet,3,2304
+med1038,med_cst038,2024-08-26,Jamnagar,Semi-Urban,Chronic,9038,Vitamin Tablets,Personal Care,4,179,40,Returned,Card,3,125
+med1039,med_cst039,2025-01-04,Surat,Urban,Regular,9039,Glucose Meter,Personal Care,3,2087,59,Delivered,Cash,1,1400
+med1040,med_cst040,2024-10-30,Bhavnagar,Semi-Urban,New,9040,Face Wash,Device,5,211,54,Returned,Card,5,172
+med1041,med_cst041,2025-11-10,Jamnagar,Semi-Urban,Regular,9041,Face Wash,Personal Care,4,1097,60,Cancelled,Wallet,3,739
+med1042,med_cst042,2024-06-21,Gandhinagar,Semi-Urban,Chronic,9042,Glucose Meter,Device,1,1247,44,Returned,Card,3,947
+med1043,med_cst043,2024-10-01,Gandhinagar,Urban,New,9043,BP Monitor,Personal Care,1,2714,26,Delivered,Cash,3,2117
+med1044,med_cst044,2024-07-11,Ahmedabad,Urban,New,9044,Face Wash,Device,4,2795,31,Cancelled,UPI,2,2125
+med1045,med_cst045,2025-03-13,Bhavnagar,Urban,Regular,9045,Glucose Meter,Device,1,877,32,Cancelled,Wallet,3,740
+med1046,med_cst046,2025-12-15,Junagadh,Urban,Chronic,9046,Paracetamol,Personal Care,4,2320,23,Delivered,Cash,1,1888
+med1047,med_cst047,2024-09-30,Bhavnagar,Urban,Regular,9047,Glucose Meter,Medicine,4,1728,20,Delivered,Wallet,5,1362
+med1048,med_cst048,2025-08-07,Gandhinagar,Semi-Urban,Regular,9048,Paracetamol,Personal Care,1,121,58,Returned,Card,3,102
+med1049,med_cst049,2025-06-09,Ahmedabad,Urban,Regular,9049,Glucose Meter,Personal Care,1,1975,53,Returned,Wallet,5,1502
+med1050,med_cst050,2025-09-10,Junagadh,Urban,Chronic,9050,Vitamin Tablets,Device,1,1805,43,Returned,Cash,1,1310
+med1051,med_cst051,2024-01-31,Rajkot,Urban,New,9051,Vitamin Tablets,Personal Care,2,1354,38,Delivered,UPI,1,1062
+med1052,med_cst052,2024-01-18,Gandhinagar,Urban,New,9052,Glucose Meter,Medicine,3,446,51,Cancelled,UPI,2,317
+med1053,med_cst053,2024-02-23,Gandhinagar,Semi-Urban,New,9053,Glucose Meter,Medicine,1,2496,59,Delivered,UPI,3,1984
+med1054,med_cst054,2024-03-09,Ahmedabad,Urban,New,9054,Paracetamol,Supplement,5,2768,53,Delivered,UPI,1,2109
+med1055,med_cst055,2025-05-03,Rajkot,Urban,Regular,9055,Sanitizer,Personal Care,3,1628,51,Cancelled,UPI,2,1207
+med1056,med_cst056,2024-12-13,Bhavnagar,Semi-Urban,Chronic,9056,Paracetamol,Personal Care,3,488,25,Returned,Cash,1,407
+med1057,med_cst057,2025-04-20,Vadodara,Urban,New,9057,Glucose Meter,Medicine,4,2416,48,Cancelled,Wallet,4,2048
+med1058,med_cst058,2025-11-24,Ahmedabad,Urban,Chronic,9058,Sanitizer,Device,3,2083,46,Returned,UPI,5,1493
+med1059,med_cst059,2024-01-01,Junagadh,Semi-Urban,New,9059,Paracetamol,Device,4,1346,51,Cancelled,UPI,2,1018
+med1060,med_cst060,2024-01-14,Rajkot,Semi-Urban,Chronic,9060,Glucose Meter,Device,5,2228,55,Cancelled,Wallet,2,1530
+med1061,med_cst061,2024-07-04,Gandhinagar,Urban,Regular,9061,Glucose Meter,Medicine,3,1289,27,Returned,Card,5,1021
+med1062,med_cst062,2025-04-05,Bhavnagar,Semi-Urban,Chronic,9062,Paracetamol,Device,1,1992,55,Delivered,Wallet,1,1630
+med1063,med_cst063,2024-12-28,Junagadh,Semi-Urban,Regular,9063,Vitamin Tablets,Medicine,1,777,37,Cancelled,UPI,3,540
+med1064,med_cst064,2024-05-11,Vadodara,Urban,New,9064,Glucose Meter,Supplement,3,1037,45,Cancelled,UPI,3,746
+med1065,med_cst065,2025-08-05,Junagadh,Urban,Regular,9065,Sanitizer,Personal Care,5,747,48,Delivered,Wallet,4,604
+med1066,med_cst066,2025-10-05,Gandhinagar,Urban,Chronic,9066,Sanitizer,Device,5,116,39,Returned,Card,4,75
+med1067,med_cst067,2024-07-31,Junagadh,Urban,New,9067,Vitamin Tablets,Device,3,1771,21,Returned,Cash,1,1474
+med1068,med_cst068,2025-12-20,Surat,Semi-Urban,New,9068,Glucose Meter,Medicine,5,2580,23,Cancelled,UPI,4,1980
+med1069,med_cst069,2025-01-29,Junagadh,Urban,New,9069,Sanitizer,Device,2,366,40,Delivered,Card,3,266
+med1070,med_cst070,2024-08-03,Junagadh,Semi-Urban,New,9070,Paracetamol,Personal Care,1,913,49,Cancelled,Card,4,738
+med1071,med_cst071,2025-05-17,Ahmedabad,Urban,Chronic,9071,Vitamin Tablets,Personal Care,4,2468,32,Returned,Cash,3,2007
+med1072,med_cst072,2025-05-10,Ahmedabad,Semi-Urban,Chronic,9072,BP Monitor,Device,1,1267,36,Delivered,Cash,3,908
+med1073,med_cst073,2025-10-05,Vadodara,Urban,New,9073,Face Wash,Medicine,4,2367,43,Delivered,Card,1,1974
+med1074,med_cst074,2024-06-25,Junagadh,Semi-Urban,Chronic,9074,Glucose Meter,Personal Care,2,1817,46,Delivered,Wallet,3,1325
+med1075,med_cst075,2024-06-29,Rajkot,Urban,Regular,9075,Glucose Meter,Medicine,2,1897,36,Delivered,Wallet,4,1305
+med1076,med_cst076,2024-02-06,Jamnagar,Urban,New,9076,Vitamin Tablets,Personal Care,1,1264,29,Returned,Wallet,2,960
+med1077,med_cst077,2024-02-08,Vadodara,Urban,Regular,9077,Glucose Meter,Supplement,1,1901,57,Returned,Cash,3,1549
+med1078,med_cst078,2024-08-02,Ahmedabad,Urban,Regular,9078,Face Wash,Medicine,3,1112,48,Cancelled,Card,1,820
+med1079,med_cst079,2024-04-04,Ahmedabad,Semi-Urban,Regular,9079,Face Wash,Device,2,946,45,Delivered,Card,2,681
+med1080,med_cst080,2024-06-19,Rajkot,Semi-Urban,New,9080,Sanitizer,Personal Care,1,538,45,Delivered,UPI,4,419
+med1081,med_cst081,2024-04-05,Junagadh,Semi-Urban,Chronic,9081,Glucose Meter,Supplement,2,2981,42,Delivered,Cash,5,1953
+med1082,med_cst082,2025-09-18,Vadodara,Semi-Urban,New,9082,Face Wash,Supplement,3,377,26,Cancelled,Wallet,5,249
+med1083,med_cst083,2025-09-23,Rajkot,Urban,Chronic,9083,Glucose Meter,Device,3,1782,40,Cancelled,UPI,4,1507
+med1084,med_cst084,2024-03-17,Rajkot,Urban,Chronic,9084,Vitamin Tablets,Personal Care,2,2215,23,Cancelled,Wallet,2,1813
+med1085,med_cst085,2024-11-10,Vadodara,Urban,Regular,9085,Vitamin Tablets,Device,3,139,24,Delivered,UPI,2,115
+med1086,med_cst086,2024-04-12,Gandhinagar,Urban,Chronic,9086,Sanitizer,Device,1,1586,41,Returned,UPI,3,1105
+med1087,med_cst087,2025-02-10,Gandhinagar,Urban,Chronic,9087,Glucose Meter,Supplement,2,2954,48,Returned,Wallet,3,2380
+med1088,med_cst088,2024-09-13,Jamnagar,Semi-Urban,New,9088,Glucose Meter,Medicine,5,1271,27,Returned,Card,4,1013
+med1089,med_cst089,2025-11-26,Vadodara,Urban,Regular,9089,Vitamin Tablets,Medicine,2,2197,59,Delivered,Wallet,4,1618
+med1090,med_cst090,2024-08-14,Junagadh,Semi-Urban,New,9090,Vitamin Tablets,Medicine,5,426,49,Returned,UPI,4,319
+med1091,med_cst091,2024-07-15,Gandhinagar,Semi-Urban,New,9091,Vitamin Tablets,Medicine,4,1345,41,Cancelled,Cash,1,1075
+med1092,med_cst092,2025-03-22,Vadodara,Semi-Urban,Regular,9092,Vitamin Tablets,Device,4,2835,47,Cancelled,Wallet,2,2000
+med1093,med_cst093,2025-03-28,Rajkot,Semi-Urban,New,9093,Sanitizer,Personal Care,1,444,44,Returned,Cash,1,324
+med1094,med_cst094,2025-02-23,Surat,Semi-Urban,Chronic,9094,Face Wash,Supplement,4,1965,55,Delivered,Card,5,1313
+med1095,med_cst095,2025-02-11,Bhavnagar,Semi-Urban,Chronic,9095,Glucose Meter,Medicine,3,106,38,Delivered,Card,2,73
+med1096,med_cst096,2025-06-05,Bhavnagar,Urban,Chronic,9096,Vitamin Tablets,Device,4,2480,40,Returned,UPI,2,1782
+med1097,med_cst097,2025-05-11,Vadodara,Urban,New,9097,Glucose Meter,Device,2,2890,23,Returned,Wallet,3,2274
+med1098,med_cst098,2025-02-13,Jamnagar,Urban,Chronic,9098,Vitamin Tablets,Device,3,2189,56,Cancelled,Cash,1,1550
+med1099,med_cst099,2025-03-14,Junagadh,Semi-Urban,Regular,9099,Paracetamol,Medicine,5,1934,50,Delivered,Wallet,5,1497
+med1100,med_cst100,2024-09-19,Jamnagar,Semi-Urban,New,9100,Sanitizer,Device,5,1526,30,Cancelled,Wallet,1,1011
+med1101,med_cst101,2025-11-08,Surat,Urban,Regular,9101,Glucose Meter,Medicine,2,1704,55,Delivered,Cash,1,1316
+med1102,med_cst102,2024-05-02,Jamnagar,Urban,Chronic,9102,BP Monitor,Medicine,5,1386,42,Cancelled,UPI,5,1140
+med1103,med_cst103,2025-09-20,Jamnagar,Semi-Urban,Chronic,9103,BP Monitor,Device,1,2663,46,Returned,UPI,5,1952
+med1104,med_cst104,2024-07-05,Vadodara,Semi-Urban,New,9104,Paracetamol,Personal Care,3,1005,24,Cancelled,Cash,5,817
+med1105,med_cst105,2024-10-22,Junagadh,Urban,Chronic,9105,Sanitizer,Personal Care,2,2248,37,Returned,UPI,5,1538
+med1106,med_cst106,2025-09-11,Rajkot,Urban,Chronic,9106,Glucose Meter,Device,2,626,43,Delivered,Card,2,444
+med1107,med_cst107,2024-10-13,Junagadh,Urban,New,9107,Paracetamol,Supplement,3,2636,33,Returned,UPI,5,1926
+med1108,med_cst108,2025-08-01,Gandhinagar,Urban,New,9108,Vitamin Tablets,Personal Care,4,2692,42,Returned,Cash,1,1972
+med1109,med_cst109,2024-08-31,Junagadh,Semi-Urban,Chronic,9109,Glucose Meter,Device,3,1141,24,Returned,Card,3,922
+med1110,med_cst110,2025-03-15,Vadodara,Urban,Regular,9110,Sanitizer,Personal Care,4,1146,23,Delivered,Wallet,4,896
+med1111,med_cst111,2024-09-30,Jamnagar,Semi-Urban,New,9111,Sanitizer,Personal Care,1,647,37,Delivered,UPI,4,485
+med1112,med_cst112,2025-04-30,Rajkot,Urban,New,9112,Glucose Meter,Personal Care,4,1436,52,Delivered,Wallet,3,1032
+med1113,med_cst113,2024-03-30,Junagadh,Urban,Chronic,9113,Sanitizer,Personal Care,5,2706,22,Cancelled,Wallet,5,2287
+med1114,med_cst114,2025-03-05,Gandhinagar,Urban,Regular,9114,BP Monitor,Supplement,5,2175,27,Cancelled,Cash,4,1841
+med1115,med_cst115,2024-01-17,Ahmedabad,Semi-Urban,New,9115,Vitamin Tablets,Device,2,2675,57,Cancelled,Cash,3,2118
+med1116,med_cst116,2025-06-08,Surat,Semi-Urban,New,9116,Vitamin Tablets,Supplement,3,456,30,Returned,Card,1,317
+med1117,med_cst117,2025-04-11,Rajkot,Semi-Urban,New,9117,Vitamin Tablets,Personal Care,4,2448,35,Cancelled,Card,4,1881
+med1118,med_cst118,2025-09-13,Gandhinagar,Urban,New,9118,Glucose Meter,Device,2,2572,28,Cancelled,Cash,5,1805
+med1119,med_cst119,2024-03-08,Ahmedabad,Semi-Urban,Chronic,9119,Paracetamol,Device,1,1509,29,Delivered,Card,2,1057
+med1120,med_cst120,2024-08-08,Jamnagar,Urban,New,9120,Sanitizer,Personal Care,5,478,43,Delivered,Wallet,3,403
+med1121,med_cst121,2024-08-11,Vadodara,Semi-Urban,New,9121,Sanitizer,Device,2,507,33,Delivered,Card,1,344
+med1122,med_cst122,2024-05-18,Ahmedabad,Semi-Urban,Regular,9122,Sanitizer,Device,2,590,39,Delivered,UPI,5,473
+med1123,med_cst123,2025-04-18,Vadodara,Urban,New,9123,Face Wash,Personal Care,4,2275,23,Cancelled,Cash,5,1801
+med1124,med_cst124,2025-12-13,Gandhinagar,Semi-Urban,Chronic,9124,Sanitizer,Device,4,2494,21,Returned,Wallet,2,1669
+med1125,med_cst125,2025-02-18,Vadodara,Urban,New,9125,BP Monitor,Supplement,5,2126,24,Delivered,UPI,4,1617
+med1126,med_cst126,2025-10-20,Junagadh,Urban,Chronic,9126,Paracetamol,Personal Care,4,2609,21,Delivered,Card,5,2201
+med1127,med_cst127,2024-12-15,Gandhinagar,Semi-Urban,Regular,9127,Vitamin Tablets,Medicine,1,2027,21,Returned,UPI,1,1364
+med1128,med_cst128,2025-08-27,Bhavnagar,Semi-Urban,Chronic,9128,Sanitizer,Device,3,2634,46,Delivered,Wallet,1,2189
+med1129,med_cst129,2025-07-10,Ahmedabad,Urban,Regular,9129,Paracetamol,Personal Care,5,1559,43,Cancelled,Card,4,1162
+med1130,med_cst130,2024-09-02,Rajkot,Urban,Regular,9130,Sanitizer,Personal Care,3,1575,40,Delivered,Card,1,1213
+med1131,med_cst131,2024-02-27,Vadodara,Semi-Urban,Regular,9131,Glucose Meter,Supplement,5,1868,57,Delivered,UPI,1,1269
+med1132,med_cst132,2025-01-18,Vadodara,Urban,Chronic,9132,Sanitizer,Medicine,4,1463,36,Delivered,Wallet,5,1151
+med1133,med_cst133,2025-08-08,Junagadh,Urban,Chronic,9133,Glucose Meter,Medicine,5,526,58,Delivered,Wallet,1,446
+med1134,med_cst134,2025-11-25,Gandhinagar,Semi-Urban,New,9134,Vitamin Tablets,Device,5,1573,32,Cancelled,Card,5,1243
+med1135,med_cst135,2025-10-18,Junagadh,Semi-Urban,Regular,9135,Face Wash,Supplement,5,173,46,Delivered,Cash,3,119
+med1136,med_cst136,2025-01-24,Jamnagar,Urban,Chronic,9136,Vitamin Tablets,Supplement,3,2423,20,Returned,UPI,4,1894
+med1137,med_cst137,2025-03-11,Jamnagar,Semi-Urban,New,9137,Glucose Meter,Device,1,905,26,Cancelled,Wallet,4,711
+med1138,med_cst138,2024-12-12,Vadodara,Urban,Chronic,9138,BP Monitor,Device,1,1305,45,Cancelled,UPI,2,1066
+med1139,med_cst139,2024-02-04,Vadodara,Urban,Chronic,9139,Vitamin Tablets,Device,2,1579,28,Delivered,Wallet,4,1317
+med1140,med_cst140,2025-03-27,Jamnagar,Semi-Urban,Chronic,9140,BP Monitor,Device,4,677,24,Cancelled,Card,1,526
+med1141,med_cst141,2025-11-25,Vadodara,Urban,Chronic,9141,BP Monitor,Personal Care,3,2385,37,Cancelled,UPI,3,1564
+med1142,med_cst142,2024-03-18,Surat,Urban,New,9142,Face Wash,Personal Care,5,2675,50,Delivered,UPI,2,2148
+med1143,med_cst143,2024-07-31,Junagadh,Semi-Urban,Chronic,9143,Glucose Meter,Personal Care,4,450,23,Delivered,Cash,4,342
+med1144,med_cst144,2025-01-20,Jamnagar,Semi-Urban,Chronic,9144,BP Monitor,Supplement,1,1808,43,Cancelled,Card,2,1212
+med1145,med_cst145,2024-01-15,Rajkot,Urban,Regular,9145,Sanitizer,Medicine,1,744,43,Returned,Card,3,486
+med1146,med_cst146,2024-10-16,Gandhinagar,Semi-Urban,New,9146,BP Monitor,Device,2,2164,56,Delivered,UPI,1,1512
+med1147,med_cst147,2024-05-28,Vadodara,Semi-Urban,Regular,9147,Sanitizer,Device,3,1070,29,Cancelled,Cash,2,840
+med1148,med_cst148,2024-06-17,Gandhinagar,Semi-Urban,Chronic,9148,Glucose Meter,Personal Care,1,1120,46,Delivered,Wallet,5,921
+med1149,med_cst149,2025-06-20,Bhavnagar,Urban,New,9149,Face Wash,Device,2,2219,44,Cancelled,Card,4,1725
+med1150,med_cst150,2025-04-22,Ahmedabad,Urban,New,9150,BP Monitor,Device,4,704,33,Delivered,UPI,4,462
+med1151,med_cst151,2025-03-18,Jamnagar,Urban,New,9151,Sanitizer,Medicine,5,307,54,Returned,Wallet,3,254
+med1152,med_cst152,2025-12-23,Surat,Urban,Regular,9152,Sanitizer,Personal Care,3,2822,60,Cancelled,Card,3,2050
+med1153,med_cst153,2025-10-09,Junagadh,Semi-Urban,Regular,9153,Paracetamol,Personal Care,5,423,38,Returned,Card,4,340
+med1154,med_cst154,2025-04-23,Junagadh,Urban,New,9154,Paracetamol,Device,5,1641,30,Returned,Wallet,2,1250
+med1155,med_cst155,2025-05-29,Vadodara,Semi-Urban,Regular,9155,Sanitizer,Personal Care,3,1883,35,Returned,Cash,5,1331
+med1156,med_cst156,2025-07-29,Vadodara,Urban,Regular,9156,BP Monitor,Personal Care,2,1341,34,Cancelled,Card,1,1107
+med1157,med_cst157,2024-05-10,Rajkot,Urban,New,9157,Face Wash,Device,1,1920,28,Returned,Card,1,1392
+med1158,med_cst158,2024-08-03,Vadodara,Urban,Chronic,9158,Vitamin Tablets,Supplement,2,1379,29,Cancelled,Cash,3,919
+med1159,med_cst159,2024-05-25,Junagadh,Urban,Regular,9159,Vitamin Tablets,Personal Care,3,283,60,Returned,Card,3,216
+med1160,med_cst160,2024-08-25,Jamnagar,Urban,New,9160,Sanitizer,Personal Care,2,866,28,Delivered,Card,3,652
+med1161,med_cst161,2025-12-31,Surat,Semi-Urban,Regular,9161,BP Monitor,Supplement,5,723,56,Delivered,UPI,1,512
+med1162,med_cst162,2024-09-07,Ahmedabad,Urban,Chronic,9162,Face Wash,Personal Care,1,691,46,Returned,UPI,5,555
+med1163,med_cst163,2025-04-22,Jamnagar,Semi-Urban,New,9163,Glucose Meter,Supplement,4,494,49,Cancelled,Card,4,384
+med1164,med_cst164,2024-03-15,Gandhinagar,Semi-Urban,Chronic,9164,Sanitizer,Device,5,1444,50,Returned,UPI,1,1200
+med1165,med_cst165,2025-03-13,Ahmedabad,Semi-Urban,Regular,9165,Vitamin Tablets,Medicine,4,720,28,Cancelled,Card,4,517
+med1166,med_cst166,2024-03-08,Vadodara,Semi-Urban,Regular,9166,BP Monitor,Device,2,1820,56,Cancelled,Cash,1,1343
+med1167,med_cst167,2025-10-30,Vadodara,Urban,Chronic,9167,Face Wash,Personal Care,2,424,50,Returned,Card,3,291
+med1168,med_cst168,2024-03-23,Rajkot,Semi-Urban,Regular,9168,Glucose Meter,Personal Care,1,273,39,Cancelled,Card,2,177
+med1169,med_cst169,2025-02-05,Gandhinagar,Urban,New,9169,Paracetamol,Device,2,1904,34,Cancelled,Cash,5,1601
+med1170,med_cst170,2025-10-15,Ahmedabad,Urban,New,9170,Paracetamol,Personal Care,5,2495,21,Cancelled,Wallet,3,2062
+med1171,med_cst171,2025-08-16,Bhavnagar,Semi-Urban,Regular,9171,Paracetamol,Personal Care,1,2305,48,Delivered,Card,1,1816
+med1172,med_cst172,2024-07-13,Surat,Urban,New,9172,Glucose Meter,Device,2,294,58,Cancelled,Wallet,4,203
+med1173,med_cst173,2025-10-17,Junagadh,Urban,New,9173,BP Monitor,Personal Care,2,1663,54,Delivered,Cash,4,1306
+med1174,med_cst174,2024-12-30,Vadodara,Urban,Chronic,9174,Face Wash,Device,4,853,27,Cancelled,Cash,5,641
+med1175,med_cst175,2024-05-02,Ahmedabad,Semi-Urban,Chronic,9175,Face Wash,Supplement,1,441,56,Delivered,UPI,4,333
+med1176,med_cst176,2024-01-12,Jamnagar,Semi-Urban,New,9176,Vitamin Tablets,Medicine,5,1101,58,Delivered,Wallet,3,771
+med1177,med_cst177,2025-09-05,Ahmedabad,Urban,New,9177,Sanitizer,Personal Care,3,580,43,Returned,UPI,5,464
+med1178,med_cst178,2024-02-08,Ahmedabad,Urban,New,9178,Sanitizer,Supplement,2,2907,50,Cancelled,Cash,1,1921
+med1179,med_cst179,2024-11-09,Gandhinagar,Urban,Regular,9179,Vitamin Tablets,Device,2,130,57,Cancelled,Card,5,99
+med1180,med_cst180,2024-03-28,Ahmedabad,Semi-Urban,Regular,9180,Glucose Meter,Supplement,3,2863,27,Delivered,Wallet,4,2236
+med1181,med_cst181,2025-11-22,Junagadh,Urban,New,9181,Face Wash,Personal Care,2,1929,32,Delivered,Wallet,1,1329
+med1182,med_cst182,2025-05-21,Jamnagar,Urban,New,9182,Glucose Meter,Device,5,1021,31,Delivered,Wallet,2,677
+med1183,med_cst183,2025-11-24,Jamnagar,Urban,Chronic,9183,Glucose Meter,Device,1,1019,47,Delivered,Wallet,4,861
+med1184,med_cst184,2025-10-19,Ahmedabad,Semi-Urban,Chronic,9184,Vitamin Tablets,Device,2,2329,28,Returned,Wallet,4,1863
+med1185,med_cst185,2025-12-06,Bhavnagar,Semi-Urban,Regular,9185,Face Wash,Personal Care,2,467,39,Cancelled,UPI,2,311
+med1186,med_cst186,2024-10-25,Vadodara,Semi-Urban,Chronic,9186,Paracetamol,Medicine,5,1696,21,Returned,Card,3,1278
+med1187,med_cst187,2024-06-21,Surat,Urban,New,9187,Paracetamol,Device,3,1728,56,Returned,UPI,1,1360
+med1188,med_cst188,2024-05-24,Rajkot,Urban,Regular,9188,BP Monitor,Supplement,2,1051,59,Cancelled,Wallet,4,692
+med1189,med_cst189,2024-07-01,Rajkot,Semi-Urban,Regular,9189,Glucose Meter,Personal Care,1,1366,28,Delivered,Wallet,5,1097
+med1190,med_cst190,2024-07-02,Vadodara,Semi-Urban,New,9190,Paracetamol,Device,4,2622,31,Returned,Cash,4,1936
+med1191,med_cst191,2024-03-24,Ahmedabad,Urban,Chronic,9191,Paracetamol,Personal Care,3,1117,28,Returned,Cash,5,830
+med1192,med_cst192,2025-05-17,Gandhinagar,Semi-Urban,New,9192,Face Wash,Device,3,253,40,Cancelled,UPI,5,181
+med1193,med_cst193,2024-12-22,Jamnagar,Urban,New,9193,Vitamin Tablets,Medicine,4,592,55,Returned,Card,5,419
+med1194,med_cst194,2025-07-08,Vadodara,Semi-Urban,Regular,9194,Glucose Meter,Medicine,3,1213,32,Returned,UPI,1,842
+med1195,med_cst195,2025-09-16,Bhavnagar,Urban,Chronic,9195,Glucose Meter,Personal Care,3,2586,51,Delivered,Card,5,1883
+med1196,med_cst196,2025-12-21,Gandhinagar,Semi-Urban,New,9196,Vitamin Tablets,Supplement,4,2395,52,Returned,Cash,3,1642
+med1197,med_cst197,2024-04-23,Surat,Urban,New,9197,Sanitizer,Device,5,124,53,Cancelled,Card,2,102
+med1198,med_cst198,2024-09-15,Junagadh,Urban,New,9198,Glucose Meter,Device,1,1017,24,Cancelled,Wallet,4,661
+med1199,med_cst199,2024-11-14,Bhavnagar,Semi-Urban,Chronic,9199,Vitamin Tablets,Supplement,1,1056,25,Cancelled,Wallet,2,712
+med1200,med_cst200,2025-04-10,Bhavnagar,Semi-Urban,Chronic,9200,Glucose Meter,Medicine,1,513,52,Returned,UPI,5,361
+med1201,med_cst201,2025-06-12,Gandhinagar,Urban,Chronic,9201,Sanitizer,Personal Care,4,2724,40,Delivered,UPI,1,2268
+med1202,med_cst202,2024-03-11,Gandhinagar,Urban,Regular,9202,Vitamin Tablets,Medicine,2,2511,51,Cancelled,Cash,4,1850
+med1203,med_cst203,2024-11-05,Gandhinagar,Semi-Urban,Chronic,9203,Face Wash,Supplement,3,1913,50,Cancelled,UPI,3,1561
+med1204,med_cst204,2025-11-20,Vadodara,Urban,Chronic,9204,BP Monitor,Supplement,2,873,33,Delivered,Wallet,2,665
+med1205,med_cst205,2025-11-05,Gandhinagar,Semi-Urban,Chronic,9205,Sanitizer,Supplement,3,1803,24,Returned,Wallet,4,1360
+med1206,med_cst206,2024-05-11,Rajkot,Urban,Regular,9206,Vitamin Tablets,Device,3,1366,48,Cancelled,UPI,2,986
+med1207,med_cst207,2024-05-19,Jamnagar,Urban,Chronic,9207,Paracetamol,Personal Care,3,2341,29,Cancelled,UPI,2,1534
+med1208,med_cst208,2024-11-01,Junagadh,Urban,Chronic,9208,Glucose Meter,Device,2,339,58,Delivered,UPI,3,264
+med1209,med_cst209,2025-03-27,Surat,Urban,Regular,9209,Vitamin Tablets,Personal Care,2,1414,32,Delivered,Cash,3,1199
+med1210,med_cst210,2024-02-22,Surat,Urban,New,9210,Sanitizer,Device,1,2183,58,Cancelled,Cash,3,1773
+med1211,med_cst211,2025-11-07,Junagadh,Semi-Urban,Chronic,9211,Face Wash,Personal Care,5,2856,55,Cancelled,Wallet,1,2007
+med1212,med_cst212,2025-12-14,Vadodara,Urban,Regular,9212,Paracetamol,Medicine,4,1266,53,Returned,UPI,4,891
+med1213,med_cst213,2025-02-19,Vadodara,Urban,New,9213,Vitamin Tablets,Personal Care,3,1803,44,Returned,Card,3,1376
+med1214,med_cst214,2025-08-20,Junagadh,Urban,Chronic,9214,Face Wash,Personal Care,1,2967,40,Delivered,UPI,4,2264
+med1215,med_cst215,2025-05-17,Vadodara,Semi-Urban,New,9215,Sanitizer,Medicine,2,2631,39,Returned,Card,1,2047
+med1216,med_cst216,2025-08-27,Vadodara,Urban,Chronic,9216,Glucose Meter,Supplement,4,1027,29,Delivered,UPI,1,708
+med1217,med_cst217,2025-09-19,Rajkot,Semi-Urban,Chronic,9217,Sanitizer,Personal Care,3,646,54,Delivered,Wallet,5,474
+med1218,med_cst218,2025-01-17,Junagadh,Semi-Urban,Chronic,9218,Face Wash,Supplement,4,2631,60,Returned,UPI,5,1966
+med1219,med_cst219,2024-11-20,Jamnagar,Urban,New,9219,Paracetamol,Personal Care,5,876,30,Returned,UPI,3,683
+med1220,med_cst220,2025-12-24,Rajkot,Semi-Urban,Chronic,9220,Glucose Meter,Personal Care,2,2676,42,Returned,Wallet,4,1812
+med1221,med_cst221,2024-04-29,Gandhinagar,Urban,Chronic,9221,BP Monitor,Device,4,2338,56,Cancelled,Card,3,1887
+med1222,med_cst222,2024-03-12,Ahmedabad,Semi-Urban,New,9222,BP Monitor,Medicine,1,1080,55,Delivered,Cash,4,725
+med1223,med_cst223,2024-04-03,Junagadh,Urban,Chronic,9223,Vitamin Tablets,Device,4,1670,28,Returned,Wallet,2,1176
+med1224,med_cst224,2025-05-13,Bhavnagar,Semi-Urban,Chronic,9224,Face Wash,Supplement,3,1876,23,Cancelled,Card,5,1329
+med1225,med_cst225,2024-05-03,Surat,Semi-Urban,Regular,9225,Vitamin Tablets,Device,2,1803,57,Delivered,Wallet,1,1518
+med1226,med_cst226,2025-07-08,Surat,Semi-Urban,Chronic,9226,Vitamin Tablets,Device,5,512,47,Cancelled,UPI,4,418
+med1227,med_cst227,2024-10-31,Bhavnagar,Semi-Urban,Regular,9227,Sanitizer,Device,3,2760,46,Returned,Card,1,1947
+med1228,med_cst228,2025-04-11,Surat,Urban,Regular,9228,BP Monitor,Personal Care,3,838,46,Returned,UPI,2,645
+med1229,med_cst229,2025-06-28,Vadodara,Semi-Urban,Chronic,9229,Vitamin Tablets,Personal Care,3,2924,56,Returned,Card,1,2105
+med1230,med_cst230,2024-10-21,Gandhinagar,Semi-Urban,Chronic,9230,Vitamin Tablets,Device,5,733,22,Returned,Cash,4,554
+med1231,med_cst231,2024-10-23,Jamnagar,Semi-Urban,Chronic,9231,Paracetamol,Device,4,302,26,Delivered,Card,2,216
+med1232,med_cst232,2025-05-12,Jamnagar,Semi-Urban,Chronic,9232,Face Wash,Device,2,2230,57,Delivered,Card,3,1613
+med1233,med_cst233,2025-11-24,Junagadh,Urban,New,9233,Glucose Meter,Device,1,1681,54,Returned,Wallet,3,1424
+med1234,med_cst234,2024-04-03,Surat,Semi-Urban,Chronic,9234,Glucose Meter,Device,4,288,49,Returned,UPI,4,236
+med1235,med_cst235,2025-02-02,Surat,Urban,Chronic,9235,Paracetamol,Personal Care,3,1126,41,Cancelled,Wallet,4,839
+med1236,med_cst236,2024-02-08,Vadodara,Urban,New,9236,Paracetamol,Device,1,2729,58,Delivered,UPI,2,1910
+med1237,med_cst237,2025-09-20,Vadodara,Urban,New,9237,Face Wash,Device,4,1303,36,Cancelled,UPI,1,1099
+med1238,med_cst238,2024-08-02,Jamnagar,Urban,Chronic,9238,Glucose Meter,Device,5,2863,46,Delivered,Wallet,4,2033
+med1239,med_cst239,2024-06-14,Surat,Semi-Urban,Chronic,9239,Glucose Meter,Personal Care,3,2080,44,Returned,Card,2,1383
+med1240,med_cst240,2024-05-08,Bhavnagar,Urban,Regular,9240,Sanitizer,Personal Care,5,382,45,Returned,UPI,3,324
+med1241,med_cst241,2025-11-30,Rajkot,Semi-Urban,Regular,9241,Glucose Meter,Personal Care,4,1131,37,Delivered,Cash,4,762
+med1242,med_cst242,2024-12-23,Gandhinagar,Urban,Regular,9242,Glucose Meter,Personal Care,4,2289,36,Returned,Card,1,1863
+med1243,med_cst243,2025-12-17,Rajkot,Urban,Chronic,9243,BP Monitor,Supplement,3,1467,22,Delivered,Cash,1,1182
+med1244,med_cst244,2024-11-18,Rajkot,Semi-Urban,Regular,9244,Vitamin Tablets,Medicine,3,2354,36,Delivered,Cash,4,1693
+med1245,med_cst245,2024-05-21,Gandhinagar,Semi-Urban,New,9245,Vitamin Tablets,Personal Care,4,1106,32,Delivered,Cash,1,927
+med1246,med_cst246,2024-03-28,Vadodara,Urban,Regular,9246,Face Wash,Supplement,5,2213,38,Cancelled,Cash,5,1832
+med1247,med_cst247,2024-03-06,Jamnagar,Semi-Urban,Chronic,9247,Paracetamol,Device,3,428,22,Delivered,Card,2,320
+med1248,med_cst248,2024-11-20,Junagadh,Semi-Urban,Regular,9248,Face Wash,Device,5,751,26,Returned,Card,1,490
+med1249,med_cst249,2024-07-01,Jamnagar,Semi-Urban,Regular,9249,Glucose Meter,Device,5,2139,24,Delivered,UPI,3,1613
+med1250,med_cst250,2025-10-02,Junagadh,Urban,Chronic,9250,Face Wash,Medicine,3,1673,43,Delivered,Cash,3,1249
+med1251,med_cst251,2024-12-09,Bhavnagar,Urban,Regular,9251,BP Monitor,Medicine,2,2474,24,Delivered,Cash,3,1762
+med1252,med_cst252,2025-08-18,Gandhinagar,Urban,Regular,9252,Vitamin Tablets,Medicine,5,1853,24,Returned,Card,5,1478
+med1253,med_cst253,2024-05-10,Jamnagar,Semi-Urban,Regular,9253,Vitamin Tablets,Medicine,4,977,21,Cancelled,UPI,1,645
+med1254,med_cst254,2024-08-03,Vadodara,Semi-Urban,New,9254,BP Monitor,Device,2,2488,42,Cancelled,Cash,3,1753
+med1255,med_cst255,2024-07-23,Ahmedabad,Semi-Urban,New,9255,Face Wash,Supplement,4,1605,30,Cancelled,Card,5,1239
+med1256,med_cst256,2024-02-09,Ahmedabad,Semi-Urban,Chronic,9256,Paracetamol,Medicine,2,89,59,Cancelled,UPI,4,74
+med1257,med_cst257,2024-10-19,Vadodara,Urban,Regular,9257,Glucose Meter,Supplement,5,1488,33,Delivered,Card,5,1083
+med1258,med_cst258,2024-10-18,Gandhinagar,Semi-Urban,Chronic,9258,Paracetamol,Medicine,2,543,24,Returned,UPI,4,432
+med1259,med_cst259,2025-09-03,Rajkot,Semi-Urban,Chronic,9259,Sanitizer,Supplement,1,2798,49,Delivered,Wallet,2,1949
+med1260,med_cst260,2024-01-27,Jamnagar,Urban,New,9260,Paracetamol,Medicine,2,1471,50,Returned,Card,3,1099
+med1261,med_cst261,2025-10-21,Vadodara,Semi-Urban,Regular,9261,Face Wash,Medicine,5,897,40,Cancelled,Card,3,703
+med1262,med_cst262,2024-05-12,Rajkot,Urban,Chronic,9262,BP Monitor,Supplement,5,2156,37,Delivered,Wallet,3,1588
+med1263,med_cst263,2024-02-09,Gandhinagar,Semi-Urban,Chronic,9263,Face Wash,Device,4,2688,34,Returned,Wallet,2,1899
+med1264,med_cst264,2025-12-28,Junagadh,Semi-Urban,Chronic,9264,Sanitizer,Device,1,1786,24,Delivered,Card,4,1317
+med1265,med_cst265,2025-08-09,Bhavnagar,Semi-Urban,Regular,9265,Sanitizer,Personal Care,1,2728,20,Returned,Wallet,4,2055
+med1266,med_cst266,2025-04-21,Ahmedabad,Urban,New,9266,Vitamin Tablets,Personal Care,2,335,21,Returned,Card,5,256
+med1267,med_cst267,2025-11-04,Ahmedabad,Semi-Urban,Regular,9267,BP Monitor,Device,1,951,49,Cancelled,Wallet,3,685
+med1268,med_cst268,2025-10-17,Ahmedabad,Semi-Urban,Chronic,9268,BP Monitor,Personal Care,5,622,54,Delivered,Card,1,449
+med1269,med_cst269,2024-05-25,Jamnagar,Urban,Chronic,9269,Sanitizer,Device,1,595,54,Cancelled,UPI,1,440
+med1270,med_cst270,2024-12-10,Surat,Urban,New,9270,Paracetamol,Medicine,5,2770,56,Delivered,UPI,5,2054
+med1271,med_cst271,2025-10-25,Vadodara,Urban,New,9271,Glucose Meter,Medicine,3,2167,38,Returned,Wallet,1,1533
+med1272,med_cst272,2024-08-22,Surat,Urban,New,9272,Paracetamol,Personal Care,4,1647,60,Delivered,Card,2,1323
+med1273,med_cst273,2025-07-25,Vadodara,Semi-Urban,Regular,9273,Vitamin Tablets,Device,5,109,30,Delivered,Wallet,3,78
+med1274,med_cst274,2025-05-19,Surat,Urban,Regular,9274,Vitamin Tablets,Device,2,615,53,Cancelled,Card,1,446
+med1275,med_cst275,2024-01-09,Gandhinagar,Semi-Urban,Chronic,9275,Glucose Meter,Supplement,5,1357,28,Delivered,UPI,4,945
+med1276,med_cst276,2025-08-12,Junagadh,Semi-Urban,Chronic,9276,Paracetamol,Device,2,1999,38,Delivered,Card,3,1349
+med1277,med_cst277,2024-10-30,Gandhinagar,Urban,Chronic,9277,Sanitizer,Personal Care,3,1259,35,Returned,Cash,1,1038
+med1278,med_cst278,2025-03-05,Junagadh,Semi-Urban,New,9278,Sanitizer,Medicine,5,1713,53,Delivered,Wallet,5,1210
+med1279,med_cst279,2025-01-03,Surat,Urban,Regular,9279,Vitamin Tablets,Personal Care,5,2748,42,Cancelled,UPI,3,2328
+med1280,med_cst280,2025-06-06,Surat,Urban,Chronic,9280,Glucose Meter,Device,5,377,56,Delivered,Cash,2,249
+med1281,med_cst281,2025-07-04,Bhavnagar,Urban,New,9281,Sanitizer,Supplement,2,464,33,Cancelled,Card,1,308
+med1282,med_cst282,2025-04-09,Ahmedabad,Semi-Urban,Chronic,9282,Sanitizer,Supplement,2,2949,50,Returned,Cash,4,2313
+med1283,med_cst283,2024-08-03,Junagadh,Semi-Urban,Regular,9283,Glucose Meter,Device,3,1037,47,Returned,Wallet,2,707
+med1284,med_cst284,2025-04-13,Surat,Urban,New,9284,Paracetamol,Supplement,3,1437,25,Delivered,UPI,1,1176
+med1285,med_cst285,2024-12-23,Bhavnagar,Semi-Urban,Chronic,9285,Vitamin Tablets,Medicine,1,2161,56,Returned,Wallet,4,1526
+med1286,med_cst286,2024-03-01,Bhavnagar,Semi-Urban,New,9286,Face Wash,Personal Care,2,2020,51,Cancelled,UPI,3,1695
+med1287,med_cst287,2025-10-19,Junagadh,Semi-Urban,New,9287,Paracetamol,Personal Care,3,2168,53,Cancelled,Cash,5,1557
+med1288,med_cst288,2025-08-20,Surat,Urban,Regular,9288,Vitamin Tablets,Medicine,5,2677,23,Cancelled,Card,4,2232
+med1289,med_cst289,2025-01-08,Vadodara,Urban,Regular,9289,Vitamin Tablets,Personal Care,5,1547,41,Cancelled,Card,4,1306
+med1290,med_cst290,2025-02-07,Surat,Urban,Chronic,9290,Vitamin Tablets,Device,4,2209,60,Returned,Card,5,1715
+med1291,med_cst291,2025-10-22,Jamnagar,Urban,New,9291,Face Wash,Medicine,1,2416,32,Delivered,Cash,2,1927
+med1292,med_cst292,2024-05-11,Surat,Urban,Regular,9292,Paracetamol,Supplement,3,205,29,Returned,Card,5,146
+med1293,med_cst293,2024-12-23,Vadodara,Semi-Urban,Chronic,9293,Sanitizer,Device,4,1840,33,Cancelled,Wallet,4,1197
+med1294,med_cst294,2024-07-21,Bhavnagar,Urban,Chronic,9294,Face Wash,Personal Care,3,287,26,Returned,Card,5,234
+med1295,med_cst295,2025-03-19,Vadodara,Semi-Urban,Chronic,9295,Sanitizer,Personal Care,3,1813,48,Delivered,Cash,3,1532
+med1296,med_cst296,2024-01-12,Gandhinagar,Urban,New,9296,Glucose Meter,Supplement,5,1813,28,Delivered,UPI,2,1412
+med1297,med_cst297,2025-09-16,Jamnagar,Semi-Urban,Regular,9297,Vitamin Tablets,Device,4,413,46,Returned,UPI,1,336
+med1298,med_cst298,2024-10-31,Vadodara,Semi-Urban,Chronic,9298,Face Wash,Personal Care,4,2156,60,Delivered,UPI,2,1803
+med1299,med_cst299,2025-10-19,Ahmedabad,Semi-Urban,Chronic,9299,Vitamin Tablets,Medicine,3,2414,36,Cancelled,Card,4,1822
+med1300,med_cst300,2024-12-27,Vadodara,Urban,New,9300,Paracetamol,Device,1,2433,37,Returned,UPI,4,1707
+med1301,med_cst301,2025-12-17,Vadodara,Semi-Urban,Regular,9301,BP Monitor,Medicine,2,1083,32,Returned,UPI,2,850
+med1302,med_cst302,2024-07-05,Vadodara,Semi-Urban,New,9302,Sanitizer,Personal Care,4,153,52,Delivered,Card,1,114
+med1303,med_cst303,2025-04-01,Bhavnagar,Urban,New,9303,Face Wash,Supplement,4,2016,55,Cancelled,Card,2,1462
+med1304,med_cst304,2025-03-11,Ahmedabad,Semi-Urban,Regular,9304,Paracetamol,Supplement,1,375,51,Delivered,Wallet,5,248
+med1305,med_cst305,2025-01-12,Jamnagar,Urban,Chronic,9305,Face Wash,Medicine,4,1399,48,Cancelled,Cash,2,931
+med1306,med_cst306,2025-09-27,Gandhinagar,Semi-Urban,Chronic,9306,Paracetamol,Personal Care,5,636,53,Cancelled,Cash,3,462
+med1307,med_cst307,2024-06-07,Ahmedabad,Semi-Urban,Regular,9307,Glucose Meter,Device,1,378,49,Cancelled,Card,4,247
+med1308,med_cst308,2025-09-14,Gandhinagar,Urban,New,9308,Sanitizer,Personal Care,5,1604,46,Cancelled,Cash,4,1208
+med1309,med_cst309,2024-07-29,Gandhinagar,Semi-Urban,Chronic,9309,BP Monitor,Personal Care,4,2952,52,Returned,Wallet,1,2459
+med1310,med_cst310,2024-10-10,Rajkot,Urban,Regular,9310,Paracetamol,Personal Care,2,2697,48,Returned,Wallet,1,1763
+med1311,med_cst311,2024-11-22,Rajkot,Urban,Regular,9311,Glucose Meter,Medicine,5,672,41,Cancelled,Card,3,522
+med1312,med_cst312,2025-03-13,Gandhinagar,Semi-Urban,Chronic,9312,Glucose Meter,Personal Care,1,1815,47,Delivered,Card,3,1476
+med1313,med_cst313,2025-09-05,Vadodara,Urban,New,9313,Face Wash,Device,1,2017,57,Cancelled,UPI,4,1451
+med1314,med_cst314,2024-06-16,Vadodara,Urban,Chronic,9314,Face Wash,Device,2,924,55,Delivered,Wallet,5,676
+med1315,med_cst315,2024-10-22,Rajkot,Urban,Regular,9315,Vitamin Tablets,Supplement,2,1308,46,Cancelled,Cash,4,872
+med1316,med_cst316,2024-12-10,Gandhinagar,Semi-Urban,Regular,9316,Sanitizer,Personal Care,1,1246,44,Returned,Card,3,947
+med1317,med_cst317,2025-03-10,Junagadh,Urban,Chronic,9317,Paracetamol,Personal Care,4,1494,39,Cancelled,Wallet,5,1060
+med1318,med_cst318,2024-11-12,Gandhinagar,Semi-Urban,New,9318,BP Monitor,Supplement,3,1098,57,Returned,Card,1,875
+med1319,med_cst319,2025-04-09,Ahmedabad,Urban,New,9319,Vitamin Tablets,Personal Care,4,2202,60,Delivered,Card,2,1442
+med1320,med_cst320,2024-03-21,Rajkot,Urban,Regular,9320,Paracetamol,Personal Care,3,917,33,Delivered,Card,2,742
+med1321,med_cst321,2025-09-25,Vadodara,Urban,Regular,9321,Vitamin Tablets,Personal Care,1,2034,30,Returned,Card,1,1583
+med1322,med_cst322,2024-02-04,Junagadh,Urban,New,9322,Sanitizer,Personal Care,5,137,54,Delivered,Card,3,98
+med1323,med_cst323,2024-07-28,Gandhinagar,Urban,Chronic,9323,Glucose Meter,Device,4,1981,21,Returned,Card,4,1641
+med1324,med_cst324,2025-04-15,Junagadh,Urban,Chronic,9324,Face Wash,Medicine,3,1906,60,Delivered,UPI,5,1307
+med1325,med_cst325,2025-06-12,Rajkot,Semi-Urban,Chronic,9325,Vitamin Tablets,Device,5,1117,42,Delivered,Cash,1,902
+med1326,med_cst326,2025-01-10,Rajkot,Urban,New,9326,Sanitizer,Personal Care,1,337,46,Cancelled,UPI,4,224
+med1327,med_cst327,2025-01-06,Gandhinagar,Semi-Urban,Regular,9327,Glucose Meter,Personal Care,2,1520,37,Returned,Wallet,1,993
+med1328,med_cst328,2025-12-30,Jamnagar,Urban,Regular,9328,Glucose Meter,Personal Care,4,2733,21,Delivered,Wallet,3,1926
+med1329,med_cst329,2024-09-18,Jamnagar,Urban,New,9329,Vitamin Tablets,Device,2,1511,51,Delivered,Wallet,5,1282
+med1330,med_cst330,2025-12-07,Jamnagar,Urban,Regular,9330,Glucose Meter,Device,2,2792,29,Delivered,Cash,5,2011
+med1331,med_cst331,2024-03-05,Surat,Semi-Urban,Regular,9331,Paracetamol,Medicine,2,874,59,Cancelled,Wallet,4,652
+med1332,med_cst332,2024-02-15,Junagadh,Urban,Chronic,9332,Vitamin Tablets,Device,1,1152,26,Delivered,UPI,3,956
+med1333,med_cst333,2025-10-11,Ahmedabad,Semi-Urban,New,9333,Vitamin Tablets,Personal Care,5,2860,44,Returned,Cash,3,1892
+med1334,med_cst334,2025-02-01,Junagadh,Urban,New,9334,Sanitizer,Personal Care,2,2283,45,Cancelled,Wallet,3,1917
+med1335,med_cst335,2024-11-19,Surat,Urban,New,9335,Paracetamol,Device,3,943,49,Delivered,Cash,5,669
+med1336,med_cst336,2024-05-06,Gandhinagar,Semi-Urban,New,9336,BP Monitor,Device,3,1471,22,Returned,Card,4,1191
+med1337,med_cst337,2024-09-03,Ahmedabad,Urban,New,9337,Vitamin Tablets,Personal Care,1,2261,45,Delivered,Card,3,1750
+med1338,med_cst338,2025-08-17,Ahmedabad,Urban,New,9338,Sanitizer,Supplement,2,2858,53,Returned,UPI,3,1946
+med1339,med_cst339,2024-12-06,Surat,Semi-Urban,New,9339,BP Monitor,Device,3,384,45,Cancelled,Card,1,311
+med1340,med_cst340,2024-11-27,Gandhinagar,Urban,New,9340,BP Monitor,Device,1,254,59,Cancelled,Card,2,191
+med1341,med_cst341,2025-07-15,Vadodara,Urban,New,9341,Sanitizer,Device,1,1970,49,Delivered,Wallet,2,1498
+med1342,med_cst342,2024-12-10,Gandhinagar,Semi-Urban,Regular,9342,Vitamin Tablets,Device,4,78,23,Cancelled,UPI,3,56
+med1343,med_cst343,2024-07-31,Bhavnagar,Urban,Chronic,9343,BP Monitor,Device,4,2334,55,Delivered,Card,1,1963
+med1344,med_cst344,2024-10-22,Junagadh,Semi-Urban,Chronic,9344,Sanitizer,Personal Care,5,2805,43,Delivered,Wallet,3,2166
+med1345,med_cst345,2025-02-25,Surat,Semi-Urban,Regular,9345,Glucose Meter,Personal Care,1,283,52,Delivered,Card,3,196
+med1346,med_cst346,2025-08-23,Surat,Urban,Regular,9346,Paracetamol,Medicine,2,2686,29,Returned,Card,5,2254
+med1347,med_cst347,2025-02-15,Junagadh,Urban,New,9347,Vitamin Tablets,Device,1,2076,47,Cancelled,Card,5,1428
+med1348,med_cst348,2024-01-22,Jamnagar,Urban,Chronic,9348,Face Wash,Personal Care,4,2573,58,Delivered,Cash,1,1769
+med1349,med_cst349,2024-01-01,Gandhinagar,Semi-Urban,Regular,9349,Sanitizer,Device,4,973,50,Cancelled,UPI,1,770
+med1350,med_cst350,2024-10-19,Surat,Urban,Regular,9350,BP Monitor,Device,3,948,59,Delivered,UPI,5,764
+med1351,med_cst351,2024-06-28,Jamnagar,Urban,New,9351,Glucose Meter,Device,4,94,23,Delivered,Cash,3,70
+med1352,med_cst352,2024-02-03,Jamnagar,Semi-Urban,Regular,9352,Paracetamol,Supplement,3,2473,28,Delivered,UPI,3,1958
+med1353,med_cst353,2024-12-18,Jamnagar,Semi-Urban,Chronic,9353,Glucose Meter,Device,3,2271,25,Cancelled,Card,4,1898
+med1354,med_cst354,2025-02-14,Bhavnagar,Semi-Urban,Chronic,9354,BP Monitor,Medicine,1,1516,34,Returned,Cash,4,1283
+med1355,med_cst355,2024-05-01,Bhavnagar,Urban,Regular,9355,Sanitizer,Personal Care,2,1830,32,Returned,Card,1,1325
+med1356,med_cst356,2025-05-22,Gandhinagar,Urban,New,9356,Paracetamol,Personal Care,3,1554,38,Returned,Cash,1,1247
+med1357,med_cst357,2025-08-21,Surat,Urban,Regular,9357,BP Monitor,Device,3,2459,46,Returned,UPI,2,1882
+med1358,med_cst358,2024-08-08,Rajkot,Urban,Chronic,9358,Sanitizer,Device,1,501,59,Returned,Cash,2,403
+med1359,med_cst359,2025-10-08,Surat,Urban,New,9359,Face Wash,Device,3,2222,34,Returned,Cash,3,1698
+med1360,med_cst360,2025-04-23,Rajkot,Urban,New,9360,Sanitizer,Supplement,1,2826,27,Returned,Cash,4,1839
+med1361,med_cst361,2025-06-24,Bhavnagar,Urban,Regular,9361,Face Wash,Device,4,345,23,Returned,Cash,3,225
+med1362,med_cst362,2024-02-05,Junagadh,Semi-Urban,Chronic,9362,Vitamin Tablets,Personal Care,2,923,39,Cancelled,UPI,2,776
+med1363,med_cst363,2024-08-30,Jamnagar,Semi-Urban,New,9363,Paracetamol,Medicine,1,1855,26,Cancelled,Cash,1,1252
+med1364,med_cst364,2025-11-23,Gandhinagar,Urban,Chronic,9364,Vitamin Tablets,Personal Care,4,1094,46,Delivered,UPI,5,764
+med1365,med_cst365,2024-03-12,Junagadh,Urban,New,9365,BP Monitor,Device,2,1243,39,Returned,Wallet,5,884
+med1366,med_cst366,2025-07-15,Ahmedabad,Semi-Urban,New,9366,Face Wash,Medicine,1,951,32,Cancelled,Cash,5,737
+med1367,med_cst367,2025-11-21,Bhavnagar,Semi-Urban,New,9367,Vitamin Tablets,Device,4,512,27,Cancelled,Cash,3,364
+med1368,med_cst368,2024-08-20,Surat,Urban,Chronic,9368,Paracetamol,Supplement,1,783,35,Returned,Card,5,664
+med1369,med_cst369,2024-03-18,Rajkot,Semi-Urban,Chronic,9369,Sanitizer,Personal Care,2,1378,34,Cancelled,Cash,5,923
+med1370,med_cst370,2025-11-29,Junagadh,Semi-Urban,Regular,9370,Sanitizer,Supplement,4,1365,30,Delivered,Wallet,5,887
+med1371,med_cst371,2024-01-03,Jamnagar,Semi-Urban,Regular,9371,Face Wash,Supplement,5,2690,56,Cancelled,Cash,3,1990
+med1372,med_cst372,2025-09-25,Surat,Semi-Urban,New,9372,Face Wash,Personal Care,3,547,30,Cancelled,UPI,3,407
+med1373,med_cst373,2025-07-27,Junagadh,Semi-Urban,Regular,9373,Sanitizer,Medicine,1,2379,38,Cancelled,UPI,4,1779
+med1374,med_cst374,2025-10-20,Vadodara,Semi-Urban,Chronic,9374,Glucose Meter,Medicine,3,2496,31,Cancelled,Card,3,1639
+med1375,med_cst375,2024-02-05,Ahmedabad,Urban,New,9375,Paracetamol,Supplement,3,1668,59,Cancelled,Card,1,1162
+med1376,med_cst376,2024-02-25,Jamnagar,Semi-Urban,Regular,9376,Face Wash,Device,2,2709,26,Delivered,Cash,1,1887
+med1377,med_cst377,2024-12-18,Junagadh,Semi-Urban,New,9377,Glucose Meter,Personal Care,5,1243,44,Cancelled,Card,3,1009
+med1378,med_cst378,2025-07-29,Gandhinagar,Semi-Urban,New,9378,Paracetamol,Device,3,1489,25,Delivered,Cash,5,1233
+med1379,med_cst379,2024-03-11,Rajkot,Semi-Urban,Regular,9379,Paracetamol,Device,4,882,22,Cancelled,Card,1,690
+med1380,med_cst380,2025-02-13,Ahmedabad,Urban,New,9380,Glucose Meter,Device,1,193,51,Cancelled,Card,1,155
+med1381,med_cst381,2025-09-11,Ahmedabad,Urban,Regular,9381,BP Monitor,Device,1,2794,28,Returned,Cash,5,2134
+med1382,med_cst382,2025-03-16,Gandhinagar,Urban,Chronic,9382,BP Monitor,Personal Care,5,358,48,Cancelled,Wallet,5,237
+med1383,med_cst383,2025-11-29,Jamnagar,Semi-Urban,Regular,9383,Glucose Meter,Medicine,2,1789,54,Cancelled,UPI,3,1176
+med1384,med_cst384,2024-03-23,Ahmedabad,Urban,Regular,9384,Paracetamol,Personal Care,2,2314,48,Cancelled,Card,2,1909
+med1385,med_cst385,2024-11-28,Gandhinagar,Semi-Urban,Chronic,9385,Paracetamol,Device,1,2422,40,Delivered,Card,3,1698
+med1386,med_cst386,2025-12-01,Bhavnagar,Semi-Urban,Chronic,9386,Vitamin Tablets,Device,4,1922,57,Cancelled,UPI,5,1565
+med1387,med_cst387,2024-01-18,Surat,Semi-Urban,Regular,9387,Vitamin Tablets,Device,4,2049,42,Delivered,Cash,3,1719
+med1388,med_cst388,2025-06-29,Ahmedabad,Urban,Chronic,9388,BP Monitor,Medicine,3,1720,21,Delivered,Cash,1,1451
+med1389,med_cst389,2024-07-13,Rajkot,Semi-Urban,Regular,9389,Vitamin Tablets,Personal Care,1,1290,38,Cancelled,Wallet,1,922
+med1390,med_cst390,2024-01-19,Ahmedabad,Urban,New,9390,Paracetamol,Device,4,272,30,Delivered,Wallet,4,194
+med1391,med_cst391,2025-05-01,Junagadh,Semi-Urban,Chronic,9391,Vitamin Tablets,Device,5,2152,41,Returned,UPI,4,1560
+med1392,med_cst392,2024-03-07,Gandhinagar,Semi-Urban,New,9392,Paracetamol,Supplement,4,573,55,Delivered,Cash,2,391
+med1393,med_cst393,2025-11-07,Rajkot,Semi-Urban,New,9393,Face Wash,Device,2,152,44,Delivered,Cash,1,102
+med1394,med_cst394,2025-06-03,Rajkot,Urban,Regular,9394,Sanitizer,Supplement,1,914,23,Cancelled,UPI,3,706
+med1395,med_cst395,2025-04-30,Surat,Semi-Urban,Chronic,9395,Face Wash,Supplement,5,1977,59,Delivered,UPI,4,1470
+med1396,med_cst396,2024-07-09,Ahmedabad,Semi-Urban,Regular,9396,Paracetamol,Supplement,5,1073,57,Delivered,Cash,3,767
+med1397,med_cst397,2024-05-09,Rajkot,Urban,Chronic,9397,Face Wash,Medicine,5,1712,60,Returned,Wallet,2,1273
+med1398,med_cst398,2025-04-14,Junagadh,Semi-Urban,Regular,9398,Glucose Meter,Device,5,1198,59,Returned,Card,3,865
+med1399,med_cst399,2024-11-29,Rajkot,Semi-Urban,New,9399,Sanitizer,Personal Care,1,766,42,Cancelled,Wallet,2,591
+med1400,med_cst400,2024-07-04,Gandhinagar,Urban,Regular,9400,Sanitizer,Device,3,2792,30,Cancelled,Cash,4,2113
+med1401,med_cst401,2024-12-14,Surat,Urban,Regular,9401,Glucose Meter,Medicine,1,2138,41,Cancelled,Cash,3,1610
+med1402,med_cst402,2025-10-18,Surat,Semi-Urban,Regular,9402,Paracetamol,Personal Care,1,1811,38,Cancelled,Wallet,4,1519
+med1403,med_cst403,2025-04-10,Rajkot,Semi-Urban,Regular,9403,Vitamin Tablets,Device,3,2532,47,Delivered,UPI,2,1898
+med1404,med_cst404,2024-12-18,Rajkot,Urban,Regular,9404,Sanitizer,Device,2,1403,21,Delivered,UPI,4,1012
+med1405,med_cst405,2024-01-21,Vadodara,Urban,New,9405,Face Wash,Personal Care,3,932,28,Cancelled,Wallet,1,623
+med1406,med_cst406,2025-02-23,Vadodara,Urban,Regular,9406,Glucose Meter,Supplement,3,1659,38,Cancelled,UPI,5,1202
+med1407,med_cst407,2024-12-04,Jamnagar,Semi-Urban,New,9407,BP Monitor,Device,4,167,38,Delivered,UPI,4,112
+med1408,med_cst408,2025-06-19,Junagadh,Urban,New,9408,Vitamin Tablets,Medicine,5,1103,27,Cancelled,Wallet,2,926
+med1409,med_cst409,2025-05-01,Surat,Urban,Regular,9409,Vitamin Tablets,Personal Care,1,490,36,Returned,Card,2,352
+med1410,med_cst410,2024-12-21,Vadodara,Urban,Chronic,9410,Glucose Meter,Medicine,1,2547,34,Cancelled,Card,3,2014
+med1411,med_cst411,2024-11-29,Jamnagar,Semi-Urban,Chronic,9411,BP Monitor,Personal Care,4,2481,35,Delivered,UPI,4,1892
+med1412,med_cst412,2025-07-13,Ahmedabad,Urban,Regular,9412,BP Monitor,Personal Care,4,2067,58,Delivered,UPI,1,1475
+med1413,med_cst413,2025-07-09,Junagadh,Urban,Regular,9413,Face Wash,Supplement,2,2334,59,Cancelled,Wallet,2,1840
+med1414,med_cst414,2024-04-02,Surat,Semi-Urban,Chronic,9414,Paracetamol,Supplement,3,1673,27,Cancelled,UPI,1,1298
+med1415,med_cst415,2024-09-08,Jamnagar,Urban,Chronic,9415,Sanitizer,Personal Care,1,963,30,Returned,Wallet,2,733
+med1416,med_cst416,2025-04-17,Bhavnagar,Semi-Urban,Regular,9416,Face Wash,Device,5,210,24,Returned,UPI,4,164
+med1417,med_cst417,2025-04-14,Gandhinagar,Urban,New,9417,Paracetamol,Personal Care,3,2135,39,Returned,Cash,1,1426
+med1418,med_cst418,2025-05-28,Bhavnagar,Urban,Regular,9418,Paracetamol,Medicine,3,975,37,Cancelled,UPI,2,660
+med1419,med_cst419,2025-05-06,Rajkot,Urban,New,9419,BP Monitor,Supplement,4,2489,48,Cancelled,UPI,2,1764
+med1420,med_cst420,2025-04-23,Gandhinagar,Semi-Urban,Chronic,9420,Paracetamol,Medicine,1,2645,38,Delivered,Cash,3,1955
+med1421,med_cst421,2025-08-26,Ahmedabad,Urban,Chronic,9421,Glucose Meter,Personal Care,4,2308,31,Cancelled,UPI,3,1563
+med1422,med_cst422,2025-02-10,Surat,Urban,New,9422,Sanitizer,Device,2,644,33,Delivered,Card,3,434
+med1423,med_cst423,2024-11-29,Vadodara,Semi-Urban,New,9423,Paracetamol,Device,2,974,20,Delivered,Wallet,2,756
+med1424,med_cst424,2025-11-19,Gandhinagar,Urban,Regular,9424,BP Monitor,Personal Care,4,956,27,Returned,Card,3,696
+med1425,med_cst425,2024-03-30,Junagadh,Semi-Urban,Regular,9425,Face Wash,Personal Care,1,2423,33,Cancelled,Wallet,2,1615
+med1426,med_cst426,2024-07-06,Junagadh,Urban,Chronic,9426,Face Wash,Device,4,81,49,Returned,UPI,3,63
+med1427,med_cst427,2025-03-29,Vadodara,Semi-Urban,Chronic,9427,Glucose Meter,Device,3,2857,49,Cancelled,Cash,1,1919
+med1428,med_cst428,2024-02-20,Gandhinagar,Urban,New,9428,Face Wash,Device,3,860,43,Delivered,Card,1,626
+med1429,med_cst429,2024-03-03,Junagadh,Semi-Urban,Regular,9429,Glucose Meter,Device,5,2381,25,Delivered,Cash,5,1790
+med1430,med_cst430,2024-01-15,Surat,Urban,New,9430,BP Monitor,Supplement,2,797,25,Returned,UPI,3,524
+med1431,med_cst431,2024-03-31,Bhavnagar,Semi-Urban,New,9431,Sanitizer,Personal Care,3,1270,41,Returned,Card,3,895
+med1432,med_cst432,2024-01-02,Gandhinagar,Semi-Urban,New,9432,Vitamin Tablets,Supplement,4,2987,34,Returned,Card,4,2269
+med1433,med_cst433,2025-10-09,Rajkot,Urban,Regular,9433,Face Wash,Device,5,1422,23,Returned,Card,4,1141
+med1434,med_cst434,2024-11-15,Rajkot,Semi-Urban,Chronic,9434,Paracetamol,Device,1,1005,44,Delivered,Cash,2,693
+med1435,med_cst435,2024-04-30,Vadodara,Semi-Urban,Regular,9435,Vitamin Tablets,Device,4,2591,39,Returned,UPI,5,2103
+med1436,med_cst436,2024-02-17,Bhavnagar,Urban,Chronic,9436,Face Wash,Device,2,1343,43,Returned,Wallet,1,1058
+med1437,med_cst437,2025-01-04,Jamnagar,Urban,New,9437,Sanitizer,Personal Care,3,1153,35,Delivered,Card,4,750
+med1438,med_cst438,2025-05-13,Rajkot,Urban,Chronic,9438,Paracetamol,Personal Care,3,1825,56,Delivered,Card,4,1536
+med1439,med_cst439,2025-03-17,Ahmedabad,Urban,Regular,9439,Vitamin Tablets,Device,5,945,25,Delivered,UPI,2,763
+med1440,med_cst440,2025-05-20,Junagadh,Semi-Urban,Chronic,9440,Paracetamol,Personal Care,3,1752,59,Cancelled,UPI,5,1454
+med1441,med_cst441,2025-08-17,Vadodara,Urban,Regular,9441,Paracetamol,Device,2,494,24,Returned,Wallet,3,407
+med1442,med_cst442,2025-02-04,Bhavnagar,Urban,New,9442,Sanitizer,Personal Care,1,55,48,Cancelled,Card,3,38
+med1443,med_cst443,2025-07-17,Surat,Semi-Urban,Chronic,9443,BP Monitor,Device,1,819,30,Cancelled,Card,3,671
+med1444,med_cst444,2024-12-09,Ahmedabad,Semi-Urban,New,9444,Vitamin Tablets,Supplement,3,2440,23,Returned,Card,1,1859
+med1445,med_cst445,2025-03-28,Junagadh,Semi-Urban,Regular,9445,Glucose Meter,Medicine,2,526,35,Cancelled,UPI,5,375
+med1446,med_cst446,2025-11-10,Bhavnagar,Urban,Chronic,9446,Face Wash,Personal Care,1,1397,54,Cancelled,Card,5,1033
+med1447,med_cst447,2025-05-10,Surat,Urban,Chronic,9447,BP Monitor,Device,2,355,38,Delivered,UPI,5,254
+med1448,med_cst448,2024-05-08,Jamnagar,Urban,New,9448,Sanitizer,Medicine,1,189,20,Returned,Cash,2,122
+med1449,med_cst449,2024-09-14,Rajkot,Semi-Urban,Chronic,9449,Face Wash,Personal Care,2,255,24,Returned,Cash,4,195
+med1450,med_cst450,2025-01-23,Vadodara,Urban,Chronic,9450,Glucose Meter,Device,1,597,21,Returned,Card,5,496
+med1451,med_cst451,2024-01-07,Gandhinagar,Urban,Regular,9451,Face Wash,Device,1,2183,35,Returned,Wallet,2,1426
+med1452,med_cst452,2024-02-07,Jamnagar,Semi-Urban,Regular,9452,Vitamin Tablets,Device,4,2542,50,Delivered,Wallet,5,1768
+med1453,med_cst453,2024-03-25,Junagadh,Urban,Regular,9453,Paracetamol,Supplement,3,1513,28,Returned,Wallet,1,1002
+med1454,med_cst454,2025-12-21,Ahmedabad,Semi-Urban,Chronic,9454,Glucose Meter,Medicine,1,1624,27,Delivered,UPI,2,1321
+med1455,med_cst455,2025-04-05,Jamnagar,Semi-Urban,New,9455,Glucose Meter,Medicine,1,2767,55,Cancelled,Cash,2,1807
+med1456,med_cst456,2024-10-20,Rajkot,Urban,New,9456,Glucose Meter,Device,3,2404,50,Returned,Wallet,3,1690
+med1457,med_cst457,2024-10-24,Ahmedabad,Semi-Urban,Chronic,9457,BP Monitor,Device,2,2568,36,Cancelled,UPI,2,2087
+med1458,med_cst458,2025-05-22,Gandhinagar,Urban,Regular,9458,BP Monitor,Personal Care,3,2411,59,Cancelled,Wallet,1,1982
+med1459,med_cst459,2025-02-25,Junagadh,Semi-Urban,New,9459,Paracetamol,Personal Care,3,155,24,Delivered,Cash,4,104
+med1460,med_cst460,2025-03-27,Surat,Semi-Urban,New,9460,Paracetamol,Supplement,3,1453,60,Cancelled,Wallet,5,1066
+med1461,med_cst461,2025-06-28,Junagadh,Urban,New,9461,BP Monitor,Device,4,688,44,Returned,Card,4,465
+med1462,med_cst462,2024-10-11,Surat,Urban,Chronic,9462,BP Monitor,Device,5,1432,59,Returned,Wallet,3,1139
+med1463,med_cst463,2024-03-27,Vadodara,Urban,Regular,9463,BP Monitor,Personal Care,3,2806,26,Delivered,UPI,3,2206
+med1464,med_cst464,2025-11-09,Surat,Semi-Urban,Chronic,9464,Face Wash,Device,2,1959,60,Delivered,Cash,3,1619
+med1465,med_cst465,2025-01-20,Vadodara,Urban,Regular,9465,Face Wash,Supplement,1,1683,21,Returned,UPI,1,1291
+med1466,med_cst466,2024-06-26,Jamnagar,Urban,Chronic,9466,Glucose Meter,Medicine,5,1562,30,Cancelled,UPI,1,1135
+med1467,med_cst467,2025-04-22,Jamnagar,Urban,Regular,9467,Vitamin Tablets,Supplement,3,1358,21,Delivered,Cash,1,1072
+med1468,med_cst468,2025-08-26,Gandhinagar,Semi-Urban,Chronic,9468,Glucose Meter,Medicine,1,965,48,Delivered,Wallet,4,657
+med1469,med_cst469,2024-07-18,Jamnagar,Urban,New,9469,Face Wash,Device,1,1696,52,Delivered,Wallet,5,1253
+med1470,med_cst470,2024-10-27,Junagadh,Semi-Urban,Chronic,9470,Paracetamol,Medicine,3,1111,41,Delivered,Wallet,4,846
+med1471,med_cst471,2025-03-16,Surat,Semi-Urban,Regular,9471,Glucose Meter,Device,3,124,30,Cancelled,Cash,2,89
+med1472,med_cst472,2024-01-06,Bhavnagar,Urban,Regular,9472,Face Wash,Supplement,4,1540,60,Cancelled,Wallet,2,1024
+med1473,med_cst473,2024-04-06,Gandhinagar,Urban,New,9473,Vitamin Tablets,Device,4,2818,35,Cancelled,Wallet,1,2197
+med1474,med_cst474,2025-06-23,Rajkot,Semi-Urban,Chronic,9474,Vitamin Tablets,Supplement,3,2583,25,Returned,UPI,3,2054
+med1475,med_cst475,2025-04-26,Bhavnagar,Urban,Chronic,9475,Glucose Meter,Personal Care,5,1804,38,Cancelled,Cash,5,1210
+med1476,med_cst476,2024-12-16,Vadodara,Urban,New,9476,Sanitizer,Device,4,2352,22,Delivered,Cash,2,1849
+med1477,med_cst477,2025-03-02,Bhavnagar,Urban,Regular,9477,Sanitizer,Personal Care,2,259,42,Delivered,UPI,3,180
+med1478,med_cst478,2025-08-27,Gandhinagar,Urban,Chronic,9478,Face Wash,Supplement,5,2378,40,Returned,Wallet,1,1847
+med1479,med_cst479,2024-09-02,Surat,Urban,Regular,9479,Glucose Meter,Device,1,197,27,Returned,Cash,3,145
+med1480,med_cst480,2024-04-23,Jamnagar,Semi-Urban,New,9480,Paracetamol,Medicine,5,540,53,Returned,Card,5,439
+med1481,med_cst481,2024-12-09,Vadodara,Urban,New,9481,Paracetamol,Medicine,4,1043,30,Delivered,Card,5,837
+med1482,med_cst482,2024-08-18,Ahmedabad,Urban,Chronic,9482,Vitamin Tablets,Medicine,4,786,54,Returned,Wallet,5,608
+med1483,med_cst483,2025-03-29,Jamnagar,Urban,Regular,9483,BP Monitor,Medicine,5,1430,43,Delivered,Wallet,5,1077
+med1484,med_cst484,2024-01-08,Junagadh,Urban,Chronic,9484,Vitamin Tablets,Personal Care,4,1011,51,Delivered,Wallet,4,790
+med1485,med_cst485,2025-05-31,Gandhinagar,Semi-Urban,New,9485,Vitamin Tablets,Medicine,2,457,30,Delivered,Cash,2,363
+med1486,med_cst486,2025-04-16,Bhavnagar,Semi-Urban,Chronic,9486,BP Monitor,Medicine,5,2326,41,Cancelled,Cash,5,1969
+med1487,med_cst487,2024-07-13,Junagadh,Semi-Urban,Chronic,9487,Paracetamol,Device,2,402,21,Returned,Cash,5,288
+med1488,med_cst488,2024-03-23,Ahmedabad,Urban,Chronic,9488,Sanitizer,Medicine,2,308,59,Delivered,Wallet,5,251
+med1489,med_cst489,2024-06-29,Bhavnagar,Semi-Urban,New,9489,Sanitizer,Medicine,3,525,29,Returned,Card,2,346
+med1490,med_cst490,2024-03-17,Bhavnagar,Urban,Chronic,9490,Glucose Meter,Supplement,2,2402,38,Delivered,UPI,1,1807
+med1491,med_cst491,2025-10-13,Jamnagar,Semi-Urban,Regular,9491,BP Monitor,Supplement,2,2090,46,Delivered,UPI,1,1691
+med1492,med_cst492,2024-10-20,Surat,Urban,Chronic,9492,Face Wash,Supplement,2,1454,28,Cancelled,Card,2,1130
+med1493,med_cst493,2025-01-14,Ahmedabad,Semi-Urban,Regular,9493,Face Wash,Device,2,845,29,Returned,Wallet,1,675
+med1494,med_cst494,2025-06-07,Vadodara,Semi-Urban,Regular,9494,Vitamin Tablets,Medicine,2,503,31,Returned,Wallet,3,412
+med1495,med_cst495,2024-10-13,Jamnagar,Urban,Chronic,9495,Vitamin Tablets,Personal Care,3,2871,54,Returned,Wallet,1,1918
+med1496,med_cst496,2025-03-29,Ahmedabad,Semi-Urban,Regular,9496,Paracetamol,Personal Care,2,827,57,Returned,Cash,4,652
+med1497,med_cst497,2024-11-03,Junagadh,Urban,Chronic,9497,Sanitizer,Personal Care,2,2947,41,Delivered,Card,5,2045
+med1498,med_cst498,2024-06-03,Bhavnagar,Semi-Urban,Regular,9498,Face Wash,Personal Care,5,2947,29,Cancelled,Wallet,5,2499
+med1499,med_cst499,2025-11-26,Surat,Urban,Regular,9499,BP Monitor,Personal Care,5,609,43,Delivered,Wallet,3,479
+med1500,med_cst500,2024-04-25,Vadodara,Urban,New,9500,Face Wash,Device,4,731,39,Cancelled,Card,3,477
